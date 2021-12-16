@@ -41,3 +41,16 @@ Daytime-Sunny -> Night-Rainy
 
 ## Result
 ![shapenet_illuminants](image/result.png)
+
+Results on adaptation from Cityscapes to FoggyCityscapes. ‘prsn’, ‘mcycl’, and ‘bcycl’ separately denote ‘person’, ‘motorcycle’, and ‘bicycle’ category.
+![shapenet_illuminants](image/table2.png)
+
+Results on adaptation from Daytime-sunny to Duskrainy. Here, we directly run the released codes of the compared methods to obtain the results.
+![shapenet_illuminants](image/table3.png)
+
+Results on Daytime-sunny → Night-rainy.
+![shapenet_illuminants](image/table4.png)
+
+Results on the compound target domain.
+![shapenet_illuminants](image/table5.png)
+
